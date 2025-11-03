@@ -410,7 +410,9 @@
     "setup": false,
     "ability": "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count.)",
     "jinxes": [],
-    "reminders": [],
+    "reminders": [
+	"Is The Demon"
+	],
     "remindersGlobal": [],
     "image": "https://raw.githubusercontent.com/penopan/botc-scripts-penopan/main/Assets/Official_Icons/scarletwoman.png"
   },
